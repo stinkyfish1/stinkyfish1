@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Memory Management C++**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Html, Css, C++**
 
