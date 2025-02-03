@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stinkyfish1&label=Profile%20views&color=0e75b6&style=flat" alt="stinkyfish1" /> </p>
 
-- 🔭 I’m currently working on **Memory Management C++**
-
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Html, Css, C++**
-
-- ⚡ Fun fact **I love the Gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
